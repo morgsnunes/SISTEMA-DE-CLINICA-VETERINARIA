@@ -13,6 +13,7 @@ Cadastrarcliente: Função que coleta dados do cliente e do pet e os grava em um
 listarClientes: Função que lê o arquivo de texto e exibe os dados dos clientes.
 
 Ao executar o programa, você verá um menu como este:
+
 === Menu da Clinica Veterinaria ===
 1. Cadastrar Cliente
 2. Listar Clientes
@@ -21,6 +22,7 @@ Escolha uma opcao:
 
 Na opção "Cadastrar Cliente"
 Você será solicitado a inserir as seguintes informações:
+
 Nome do Dono
 Telefone do Dono
 Nome do Pet
