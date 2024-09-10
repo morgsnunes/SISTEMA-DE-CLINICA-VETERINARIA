@@ -1,3 +1,6 @@
+##INSTRUÇÕES
+
+
 Este projeto é um simples sistema de cadastro e listagem de clientes para uma clínica veterinária, desenvolvido em C. 
 O sistema permite ao usuário cadastrar clientes e seus pets, e listar todos os clientes armazenados em um arquivo de texto. 
 O programa utiliza um menu interativo para escolher as operações desejadas.
