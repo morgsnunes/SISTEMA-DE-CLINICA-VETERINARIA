@@ -1,4 +1,4 @@
-##INSTRUÇÕES
+# SISTEMA DE CLÍNICA VETERINÁRIA 
 
 
 Este projeto é um simples sistema de cadastro e listagem de clientes para uma clínica veterinária, desenvolvido em C. 
@@ -14,6 +14,8 @@ main: Função principal que chama o menu.
 exibirMenu: Exibe um menu interativo que permite ao usuário escolher entre cadastrar um cliente, listar clientes ou sair do programa.
 Cadastrarcliente: Função que coleta dados do cliente e do pet e os grava em um arquivo de texto.
 listarClientes: Função que lê o arquivo de texto e exibe os dados dos clientes.
+
+# INSTRUÇÕES DE FUNCIONALIDADE 
 
 Ao executar o programa, você verá um menu como este:
 
